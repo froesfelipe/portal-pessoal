@@ -18,7 +18,7 @@ Bem-vindo a a minha central de conexões e contatos!
 <br>
 
 <p align="center">
-  <img alt="capa portal pessoal" src="https://github.com/froesfelipe/.portal-pessoal/blob/main/.github/preview.jpg?raw=true" width="100%">
+  <img alt="capa portal pessoal" src="https://github.com/froesfelipe/portal-pessoal/blob/main/.github/preview.jpg?raw=true" width="100%">
 </p>
 
 
